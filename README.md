@@ -1,3 +1,11 @@
+## Modifications
+- Added setup shell script
+- Automatic installation of extensions and models
+- TCMalloc
+- xformers
+
+
+
 # Stable Diffusion web UI
 A browser interface based on Gradio library for Stable Diffusion.
 
